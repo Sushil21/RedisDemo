@@ -10,7 +10,7 @@ redis-server
 form-data:
 key = 1_s
 value = sushil mittal
-7.Get keys : http://localhost:8080/redis-demo/keys
-8.post: http://localhost:8080/redis-demo/getViaKey
+7. Get keys : http://localhost:8080/redis-demo/keys
+8. post: http://localhost:8080/redis-demo/getViaKey
 form-data:
 key = 1_s
